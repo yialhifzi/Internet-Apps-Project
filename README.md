@@ -6,10 +6,10 @@ project for internet apps &amp; multimedia and web design
 
 
 
-* 1- move CSS style to seperate file
-* 2- all links hsould be opened in seperate broswing Tab                   (done)
-* 3- write comments about any Emmit you use.                               (done)
-* 4- Bootstrap (Learn and use)
+* move CSS style to seperate file
+* all links hsould be opened in seperate broswing Tab                   (done)
+* write comments about any Emmit you use.                               (done)
+* Bootstrap (Learn and use)
 
 
 created folders
