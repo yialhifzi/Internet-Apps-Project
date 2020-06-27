@@ -1,0 +1,41 @@
+javascript&more
+
+<script>
+    alert('JavaScript test')
+    console.log('this is log message')
+  </script>
+
+
+
+
+
+
+
+
+<script>
+
+    movies=[
+      {"name": "mov1"},
+      {"name": "mov2"},
+      {"name": "mov3"},
+      {"name": "mov4"},
+      
+    ]
+  
+    console.log( "read by index" )
+    for (i in movies){
+      console.log( movies[i].name )
+      
+    }
+    
+    myhtml = ""
+    for (i in movies){
+      myhtml += `
+      <p style="background-color: bisque; margin: 10px;">
+        ${i} - ${ movies[i].name }
+      </p>`;
+      console.log( myhtml )
+    }
+  
+</script>  
+
