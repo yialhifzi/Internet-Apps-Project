@@ -6,7 +6,7 @@ project for internet apps &amp; multimedia and web design
 
 
 
-* move CSS style to seperate file
+* move CSS style to seperate file                                       (done)
 * all links hsould be opened in seperate broswing Tab                   (done)
 * write comments about any Emmit you use.                               (done)
 * Bootstrap (Learn and use)
